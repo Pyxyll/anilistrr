@@ -1,0 +1,84 @@
+{
+  "anime_shows": [
+    {
+      "english_title": "Attack on Titan",
+      "romanji_title": "Shingeki no Kyojin",
+      "air_year": "2013 - 2022",
+      "genre": ["Action", "Drama", "Fantasy"],
+      "animation_studio": "Wit Studio / MAPPA",
+      "streaming_platform": ["Crunchyroll", "Funimation"]
+    },
+    {
+      "english_title": "My Hero Academia",
+      "romanji_title": "Boku no Hero Academia",
+      "air_year": "2016 - present",
+      "genre": ["Action", "Comedy", "Superhero"],
+      "animation_studio": "Bones",
+      "streaming_platform": ["Crunchyroll", "Funimation"]
+    },
+    {
+      "english_title": "One Piece",
+      "romanji_title": "One Piece",
+      "air_year": "1999 - present",
+      "genre": ["Action", "Adventure", "Comedy"],
+      "animation_studio": "Toei Animation",
+      "streaming_platform": ["Crunchyroll", "Funimation"]
+    },
+    {
+      "english_title": "Naruto",
+      "romanji_title": "Naruto",
+      "air_year": "2002 - 2007",
+      "genre": ["Action", "Adventure", "Fantasy"],
+      "animation_studio": "Studio Pierrot",
+      "streaming_platform": ["Crunchyroll", "Hulu"]
+    },
+    {
+      "english_title": "Demon Slayer: Kimetsu no Yaiba",
+      "romanji_title": "Kimetsu no Yaiba",
+      "air_year": "2019 - 2019",
+      "genre": ["Action", "Supernatural", "Drama"],
+      "animation_studio": "ufotable",
+      "streaming_platform": ["Crunchyroll", "Funimation"]
+    },
+    {
+      "english_title": "Cowboy Bebop",
+      "romanji_title": "Cowboy Bebop",
+      "air_year": "1998 - 1999",
+      "genre": ["Action", "Sci-Fi", "Adventure"],
+      "animation_studio": "Sunrise",
+      "streaming_platform": ["Hulu", "Netflix"]
+    },
+    {
+      "english_title": "Death Note",
+      "romanji_title": "Death Note",
+      "air_year": "2006 - 2007",
+      "genre": ["Mystery", "Psychological", "Supernatural"],
+      "animation_studio": "Madhouse",
+      "streaming_platform": ["Netflix", "Hulu"]
+    },
+    {
+      "english_title": "Sword Art Online",
+      "romanji_title": "Sword Art Online",
+      "air_year": "2012 - present",
+      "genre": ["Action", "Adventure", "Fantasy"],
+      "animation_studio": "A-1 Pictures",
+      "streaming_platform": ["Crunchyroll", "Funimation"]
+    },
+    {
+      "english_title": "Fullmetal Alchemist: Brotherhood",
+      "romanji_title": "Hagane no Renkinjutsushi: Fullmetal Alchemist",
+      "air_year": "2009 - 2010",
+      "genre": ["Action", "Adventure", "Fantasy"],
+      "animation_studio": "Bones",
+      "streaming_platform": ["Crunchyroll", "Netflix"]
+    },
+    {
+      "english_title": "Hunter x Hunter",
+      "romanji_title": "Hunter x Hunter",
+      "air_year": "2011 - 2014",
+      "genre": ["Action", "Adventure", "Fantasy"],
+      "animation_studio": "Madhouse",
+      "streaming_platform": ["Crunchyroll", "Netflix"]
+    }
+  ]
+}
