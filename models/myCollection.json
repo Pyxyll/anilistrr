@@ -1,84 +1,120 @@
+/*
+  JSON structure for a collection of movie lists.
+
+  Each movie list contains:
+    - list_name: Name of the movie list.
+    - date_created: Date when the movie list was created.
+
+  Each movie within a list contains:
+    - movie_name: Name of the movie.
+    - director: Director of the movie.
+    - production_company: Production company of the movie.
+    - duration: Duration of the movie in minutes.
+
+  Example:
+  */
+
 {
   "anime_shows": [
     {
       "english_title": "Attack on Titan",
-      "romanji_title": "Shingeki no Kyojin",
-      "air_year": "2013 - 2022",
+      "romaji_title": "Shingeki no Kyojin",
+      "air_year": "2013 - 2021",
       "genre": ["Action", "Drama", "Fantasy"],
       "animation_studio": "Wit Studio / MAPPA",
-      "streaming_platform": ["Crunchyroll", "Funimation"]
+      "seasons": 4,
+      "episode_count": 75,
+      "streaming_platform": "Crunchyroll"
     },
     {
       "english_title": "My Hero Academia",
-      "romanji_title": "Boku no Hero Academia",
+      "romaji_title": "Boku no Hero Academia",
       "air_year": "2016 - present",
-      "genre": ["Action", "Comedy", "Superhero"],
+      "genre": ["Action", "Super Power", "Shounen"],
       "animation_studio": "Bones",
-      "streaming_platform": ["Crunchyroll", "Funimation"]
+      "seasons": 5,
+      "episode_count": 113,
+      "streaming_platform": "Funimation"
     },
     {
-      "english_title": "One Piece",
-      "romanji_title": "One Piece",
-      "air_year": "1999 - present",
-      "genre": ["Action", "Adventure", "Comedy"],
-      "animation_studio": "Toei Animation",
-      "streaming_platform": ["Crunchyroll", "Funimation"]
-    },
-    {
-      "english_title": "Naruto",
-      "romanji_title": "Naruto",
-      "air_year": "2002 - 2007",
-      "genre": ["Action", "Adventure", "Fantasy"],
-      "animation_studio": "Studio Pierrot",
-      "streaming_platform": ["Crunchyroll", "Hulu"]
-    },
-    {
-      "english_title": "Demon Slayer: Kimetsu no Yaiba",
-      "romanji_title": "Kimetsu no Yaiba",
+      "english_title": "Demon Slayer",
+      "romaji_title": "Kimetsu no Yaiba",
       "air_year": "2019 - 2019",
-      "genre": ["Action", "Supernatural", "Drama"],
+      "genre": ["Action", "Supernatural", "Historical"],
       "animation_studio": "ufotable",
-      "streaming_platform": ["Crunchyroll", "Funimation"]
+      "seasons": 1,
+      "episode_count": 26,
+      "streaming_platform": "Crunchyroll"
     },
     {
-      "english_title": "Cowboy Bebop",
-      "romanji_title": "Cowboy Bebop",
-      "air_year": "1998 - 1999",
-      "genre": ["Action", "Sci-Fi", "Adventure"],
-      "animation_studio": "Sunrise",
-      "streaming_platform": ["Hulu", "Netflix"]
+      "english_title": "Mob Psycho 100",
+      "romaji_title": "Mobu Saiko Hyaku",
+      "air_year": "2016 - 2019",
+      "genre": ["Action", "Comedy", "Supernatural"],
+      "animation_studio": "Bones",
+      "seasons": 2,
+      "episode_count": 25,
+      "streaming_platform": "Crunchyroll"
     },
     {
       "english_title": "Death Note",
-      "romanji_title": "Death Note",
+      "romaji_title": "Desu Nōto",
       "air_year": "2006 - 2007",
-      "genre": ["Mystery", "Psychological", "Supernatural"],
+      "genre": ["Mystery", "Psychological", "Thriller"],
       "animation_studio": "Madhouse",
-      "streaming_platform": ["Netflix", "Hulu"]
-    },
-    {
-      "english_title": "Sword Art Online",
-      "romanji_title": "Sword Art Online",
-      "air_year": "2012 - present",
-      "genre": ["Action", "Adventure", "Fantasy"],
-      "animation_studio": "A-1 Pictures",
-      "streaming_platform": ["Crunchyroll", "Funimation"]
+      "seasons": 1,
+      "episode_count": 37,
+      "streaming_platform": "Netflix"
     },
     {
       "english_title": "Fullmetal Alchemist: Brotherhood",
-      "romanji_title": "Hagane no Renkinjutsushi: Fullmetal Alchemist",
+      "romaji_title": "Hagane no Renkinjutsushi: Fullmetal Alchemist",
       "air_year": "2009 - 2010",
-      "genre": ["Action", "Adventure", "Fantasy"],
+      "genre": ["Action", "Adventure", "Drama"],
       "animation_studio": "Bones",
-      "streaming_platform": ["Crunchyroll", "Netflix"]
+      "seasons": 1,
+      "episode_count": 64,
+      "streaming_platform": "Netflix"
     },
     {
-      "english_title": "Hunter x Hunter",
-      "romanji_title": "Hunter x Hunter",
-      "air_year": "2011 - 2014",
-      "genre": ["Action", "Adventure", "Fantasy"],
-      "animation_studio": "Madhouse",
-      "streaming_platform": ["Crunchyroll", "Netflix"]
+      "english_title": "Steins;Gate",
+      "romaji_title": "Sutainzu Gēto",
+      "air_year": "2011 - 2011",
+      "genre": ["Sci-Fi", "Thriller", "Drama"],
+      "animation_studio": "White Fox",
+      "seasons": 1,
+      "episode_count": 24,
+      "streaming_platform": "Crunchyroll"
+    },
+    {
+      "english_title": "One Punch Man",
+      "romaji_title": "Wanpanman",
+      "air_year": "2015 - 2019",
+      "genre": ["Action", "Comedy", "Super Power"],
+      "animation_studio": "Madhouse / J.C. Staff",
+      "seasons": 2,
+      "episode_count": 24,
+      "streaming_platform": "Hulu"
+    },
+    {
+      "english_title": "Cowboy Bebop",
+      "romaji_title": "Kaubōi Bibappu",
+      "air_year": "1998 - 1999",
+      "genre": ["Action", "Adventure", "Sci-Fi"],
+      "animation_studio": "Sunrise",
+      "seasons": 1,
+      "episode_count": 26,
+      "streaming_platform": "Hulu"
+    },
+    {
+      "english_title": "Attack on Titan: The Final Season",
+      "romaji_title": "Shingeki no Kyojin: The Final Season",
+      "air_year": "2020 - present",
+      "genre": ["Action", "Drama", "Fantasy"],
+      "animation_studio": "MAPPA",
+      "seasons": 1,
+      "episode_count": 16,
+      "streaming_platform": "Crunchyroll"
     }
   ]
 }
