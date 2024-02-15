@@ -1,6 +1,10 @@
 :root {
   --background: #EDF1F5;
-  --foreground: #0C041E;
+  --foreground: #0A1625;
+  --accent: #2B2D42;
+}
+* {
+  border: 2px red solid;
 }
 
 body {
@@ -8,5 +12,9 @@ body {
 }
 /*Utitlity classes*/
 .foreground {
- background-color: var(--foreground) !important;
+ background-color: var(--foreground);
+}
+
+.accent {
+  background-color: var(--accent)!important;
 }
