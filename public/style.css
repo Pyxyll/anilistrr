@@ -1,20 +1,25 @@
 :root {
-  --background: #EDF1F5;
-  --foreground: #0A1625;
-  --accent: #2B2D42;
+  --background: #edf1f5;
+  --foreground: #0a1625;
+  --accent: #2b2d42;
+  --text: #edf1f5;
 }
-* {
+/* * {
   border: 2px red solid;
-}
+} */
 
 body {
   background-color: var(--background);
 }
 /*Utitlity classes*/
 .foreground {
- background-color: var(--foreground);
+  background-color: var(--foreground);
 }
 
-.accent {
-  background-color: var(--accent)!important;
+.nav {
+  background-color: var(--accent) !important;
+}
+
+.nav .item {
+  color: var(--text) !important;
 }
