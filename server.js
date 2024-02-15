@@ -13,4 +13,6 @@ app.set("view engine", ".hbs");
 
 app.use("/", routes);
 
-app.listen(port, () => console.log(`anilist is listening on port ${port}`)
+app.listen(port, () => {
+  console.log(`anilist is listening on port ${port}`)
+})
