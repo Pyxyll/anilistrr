@@ -16,6 +16,13 @@ body {
   background-color: var(--foreground);
 }
 
+.nav-wrapper{
+    background-color: var(--accent) !important;
+    width: 100vw !important;
+    margin: 0 0 1em 0;
+}
+
+
 .nav {
   background-color: var(--accent) !important;
 }
