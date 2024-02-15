@@ -1,9 +1,12 @@
 :root {
-  --background: #0F0326;
-  --foreground: #3D2F60;
+  --background: #EDF1F5;
+  --foreground: #0C041E;
 }
 
 body {
   background-color: var(--background);
 }
 /*Utitlity classes*/
+.foreground {
+ background-color: var(--foreground) !important;
+}
