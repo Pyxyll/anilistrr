@@ -4,6 +4,10 @@
   --accent: #2b2d42;
   --text: #edf1f5;
 }
+
+.custom-active {
+  background-color: red !important;
+}
 /* * {
   border: 2px red solid;
 } */
