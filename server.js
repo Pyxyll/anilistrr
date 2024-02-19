@@ -13,6 +13,10 @@ app.set("view engine", ".hbs");
 
 app.use("/", routes);
 
+app.get('/about', (req, res) => {
+    res.render('about', { activePage: 'about' });
+});
+
 app.listen(port, () => {
   console.log(`anilist is listening on port ${port}`)
 })
