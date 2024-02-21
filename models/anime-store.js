@@ -6,15 +6,15 @@ const animeStore = {
 
   store: new JsonStore('./models/anime-store.json', { animeCollection: [] }),
   collection: 'animeCollection',
-  array: 'anime-shows',
+  array: 'shows',
 
   getAllShows() {
     return this.store.findAll(this.collection);
   },
   
-//   getShow(id) {
-//     return this.store.findOneBy(this.collection, (playlist => playlist.id === id));
-// },
+  getList(id) {
+    return this.store.findOneBy(this.collection, (list => list.id === id));
+},
 
 };
 

@@ -3,7 +3,7 @@
     {
       "id": "01",
       "title": "Favourites",
-      "anime-shows": [
+      "shows": [
         {
           "english_title": "Demon Slayer",
           "romaji_title": "Kimetsu no Yaiba",
@@ -210,7 +210,7 @@
     {
       "id": "01",
       "title": "Want to watch",
-      "anime-shows": [
+      "shows": [
         {
           "english_title": "Demon Slayer",
           "romaji_title": "Kimetsu no Yaiba",

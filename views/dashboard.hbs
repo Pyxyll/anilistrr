@@ -8,9 +8,28 @@
   
   <h2>Playlist App Dashboard</h2>
   
+  {{#unless lists}}
+      <h3 class="ui message">
+      Start adding your anime lists!
+    </h3>
+  {{/unless}}
+  
 {{#each lists}}
-  <h1>{{title}}</h1>
-
+  <section class="ui left aligned middle aligned segment">
+      <h3 class="ui header">
+        {{title}}
+    </h3>
+    {{#if shows}}
+    <p>Shows added: {{shows.length}}</p>
+    {{else}}
+    <p>
+      Empty list!
+    </p>
+    {{/if}}
+    <button class="ui button">
+      <a href="/list/{{id}}">View</a>
+    </button>
+  </section>
   {{/each}}
 </section>
 </section>
