@@ -13,6 +13,7 @@ router.get('/', start.createView);
 router.get('/dashboard', dashboard.createView);
 router.get('/list', list.createView);
 router.get('/about', about.createView);
+router.get('/list/:id', list.createView);
 
 
 router.get('/error', (request, response) => response.status(404).end('Page not found.'));

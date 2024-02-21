@@ -3,18 +3,18 @@
 import logger from '../utils/logger.js';
 import animeStore from '../models/anime-store.js';
 
-const shows = {
+const list = {
   createView(request, response) {
-    const showId = request.params.id;
-    logger.debug('show id = ' + showId);
+    const id = request.params.id;
+    logger.debug('list id = ' + id);
     
     const viewData = {
-      title: 'Playlist',
-      singlePlaylist: animeStore.getlist(showId)
+      title: 'list',
+      singlePlaylist: animeStore.getList(id)
     };
 
     response.render('list', viewData);
   },
 };
 
-export default shows;
+export default list;
