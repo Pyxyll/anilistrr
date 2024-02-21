@@ -7,7 +7,7 @@ const dashboard = {
     
     const viewData = {
       title: "Playlist App Dashboard",
-      playlists: animeStore.getAllShows()
+      shows: animeStore.getAllShows()
     };
     
     response.render('dashboard', viewData);

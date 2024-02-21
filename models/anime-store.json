@@ -1,5 +1,5 @@
 {
-  "anime_collection": [
+  "animeCollection": [
     {
       "id": "01",
       "title": "favourites",
@@ -22,6 +22,26 @@
             {
               "name": "AnimeFan456",
               "comment": "Love the characters and storyline."
+            }
+          ]
+        },
+        {
+          "english_title": "Re:Zero - Starting Life in Another World",
+          "romaji_title": "Re:Zero kara Hajimeru Isekai Seikatsu",
+          "air_year": "2016",
+          "genre": ["Psychological", "Fantasy", "Thriller"],
+          "animation_studio": "White Fox",
+          "seasons": 2,
+          "episode_count": 50,
+          "streaming_platform": "Crunchyroll",
+          "comments": [
+            {
+              "name": "RemBestGirl",
+              "comment": "Love the time-loop concept and character development."
+            },
+            {
+              "name": "SubaruFan99",
+              "comment": "Can't wait for season 3!"
             }
           ]
         }
