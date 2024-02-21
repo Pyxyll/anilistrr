@@ -2,14 +2,46 @@
 
 
       {{#each singleList.shows}}
-            <img class="ui medium rounded image shadow" src="{{imgpath}}">
-            {{english_title}}
+<!--             <img class="ui small rounded image shadow" src="{{imgpath}}">
+            {{english_title}} -->
+
+
+<div class="ui divided items">
+  <div class="item">
+    <div class="image">
+      <img src="{{imgpath}}">
+    </div>
+    <div class="content">
+      <a class="header">{{english_title}}</a>
+      <div class="meta">
+        <span class="cinema">Studio: {{animation_studio}}</span>
+      </div>
+      <div class="description">
+        <p></p>
+      </div>
+      <div class="extra">
+        {{#each genre}}
+        <div class="ui label">{{genre}}</div>
+        {{/each}}
+        
+
+      </div>
+    </div>
+  </div>
+
+</div>
+
+
+
+
+
+
       {{/each}}
 
 
 {{else}}
   <h3 class="ui message">
-    Empty playlist!
+    Empty List!
   </h3>
 
 {{/if}}
