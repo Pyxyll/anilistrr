@@ -1,14 +1,16 @@
 
-    <section>
-      {{> menu id="dashboard"}}
-    </section>
+<section>
+  {{> menu id="dashboard"}}
+</section>
+
  <section class="ui container ">
 <section class="ui left aligned middle aligned segment">
   
-    <h2>Playlist App Dashboard</h2>
-      <p>
-        Playlists will be displayed here
-      </p>
+  <h2>Playlist App Dashboard</h2>
+  
+{{#each anime_shows}}
+  {{english_title}}
+{{/each}}
 
 </section>
 </section>

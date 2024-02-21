@@ -4,15 +4,15 @@ import JsonStore from './json-store.js';
 
 const animeStore = {
 
-  store: new JsonStore('./models/anime.json', { playlistCollection: [] }),
+  store: new JsonStore('./models/anime.json', { anime_shows: [] }),
   collection: 'anime_shows',
-  array: 'genre',
+  array: 'anime_shows',
 
-  getAllPlaylists() {
+  getAllShows() {
     return this.store.findAll(this.collection);
   },
   
-  getPlaylist(id) {
+  getShow(id) {
     return this.store.findOneBy(this.collection, (playlist => playlist.id === id));
 },
 

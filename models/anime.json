@@ -1,22 +1,3 @@
-/*
-  Structure of the JSON file for a collection of anime shows:
-
-  - anime_shows: Array containing information about each anime show.
-    Each element in the array represents a single anime show.
-
-    For each anime show:
-    - english_title: English title of the anime.
-    - romaji_title: Romaji title of the anime.
-    - air_year: Year range when the anime aired (e.g., "2013 - 2021").
-    - genre: Array containing genres of the anime (e.g., ["Action", "Drama"]).
-    - animation_studio: The animation studio responsible for the anime.
-    - seasons: Number of seasons the anime has.
-    - episode_count: Total episode count of the anime.
-    - streaming_platform: Streaming platform where the anime can be watched.
-    CodeLink: https://glitch.com/edit/#!/dylancollinsca1
-    ChatGPT: https://chat.openai.com/share/88e71173-a98f-4595-bba5-d04474c561f8
-*/
-
 {
   "anime_shows": [
     {
