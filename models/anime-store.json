@@ -2,8 +2,28 @@
   "animeCollection": [
     {
       "id": "01",
-      "title": "favourites",
+      "title": "Favourites",
       "anime-shows": [
+        {
+          "english_title": "Demon Slayer",
+          "romaji_title": "Kimetsu no Yaiba",
+          "air_year": "2019",
+          "genre": ["Action", "Supernatural", "Historical"],
+          "animation_studio": "ufotable",
+          "seasons": 1,
+          "episode_count": 26,
+          "streaming_platform": "Funimation",
+          "comments": [
+            {
+              "name": "SlayerFan1",
+              "comment": "Incredible animation and fight scenes!"
+            },
+            {
+              "name": "DemonFan22",
+              "comment": "One of the best shounen anime out there."
+            }
+          ]
+        },
         {
           "id": "03",
           "english_title": "Persona 4 the Animation",
@@ -42,6 +62,353 @@
             {
               "name": "SubaruFan99",
               "comment": "Can't wait for season 3!"
+            }
+          ]
+        },
+        {
+          "english_title": "ERASED",
+          "romaji_title": "Boku dake ga Inai Machi",
+          "air_year": "2016",
+          "genre": ["Mystery", "Psychological", "Supernatural"],
+          "animation_studio": "A-1 Pictures",
+          "seasons": 1,
+          "episode_count": 12,
+          "streaming_platform": "Netflix",
+          "comments": [
+            {
+              "name": "MysteryLover88",
+              "comment": "The plot twists kept me on the edge of my seat!"
+            },
+            {
+              "name": "TimeTraveler101",
+              "comment": "Unique and gripping storyline."
+            }
+          ]
+        },
+        {
+          "english_title": "Parasyte -the maxim-",
+          "romaji_title": "Kiseijuu: Sei no Kakuritsu",
+          "air_year": "2014",
+          "genre": ["Action", "Horror", "Sci-Fi"],
+          "animation_studio": "Madhouse",
+          "seasons": 1,
+          "episode_count": 24,
+          "streaming_platform": "Hulu",
+          "comments": [
+            {
+              "name": "SciFiFanatic",
+              "comment": "Intense and thought-provoking!"
+            },
+            {
+              "name": "HorrorFan22",
+              "comment": "Loved the body horror elements."
+            }
+          ]
+        },
+        {
+          "english_title": "Cyberpunk: Edgerunners",
+          "romaji_title": "Cyberpunk: Edgerunners",
+          "air_year": "2022",
+          "genre": ["Action", "Sci-Fi"],
+          "animation_studio": "Studio Trigger",
+          "seasons": 1,
+          "episode_count": 10,
+          "streaming_platform": "Netflix",
+          "comments": [
+            {
+              "name": "TechGeek01",
+              "comment": "Visually stunning!"
+            },
+            {
+              "name": "CyberpunkFan2022",
+              "comment": "Captures the essence of Cyberpunk perfectly."
+            }
+          ]
+        },
+        {
+          "english_title": "Steins;Gate",
+          "romaji_title": "Steins;Gate",
+          "air_year": "2011",
+          "genre": ["Thriller", "Sci-Fi", "Psychological"],
+          "animation_studio": "White Fox",
+          "seasons": 1,
+          "episode_count": 24,
+          "streaming_platform": "Hulu",
+          "comments": [
+            {
+              "name": "TimeTravelEnthusiast",
+              "comment": "Mind-bending time-travel narrative!"
+            },
+            {
+              "name": "LabMember007",
+              "comment": "One of my all-time favorites."
+            }
+          ]
+        },
+        {
+          "english_title": "Death Parade",
+          "romaji_title": "Death Parade",
+          "air_year": "2015",
+          "genre": ["Psychological", "Drama", "Mystery"],
+          "animation_studio": "Madhouse",
+          "seasons": 1,
+          "episode_count": 12,
+          "streaming_platform": "Funimation",
+          "comments": [
+            {
+              "name": "MysteryBuff456",
+              "comment": "Fascinating concept and character examinations."
+            },
+            {
+              "name": "DramaFanatic",
+              "comment": "Emotionally gripping!"
+            }
+          ]
+        },
+        {
+          "english_title": "Higurashi: When They Cry",
+          "romaji_title": "Higurashi no Naku Koro ni",
+          "air_year": "2006",
+          "genre": ["Horror", "Mystery", "Psychological"],
+          "animation_studio": "Studio Deen",
+          "seasons": 2,
+          "episode_count": 48,
+          "streaming_platform": "Hulu",
+          "comments": [
+            {
+              "name": "HorrorEnthusiast",
+              "comment": "A classic in the horror genre!"
+            },
+            {
+              "name": "MysteryFan321",
+              "comment": "Keeps you guessing until the end."
+            }
+          ]
+        },
+        {
+          "english_title": "Call of the Night",
+          "romaji_title": "Yofukashi no Uta",
+          "air_year": "2021",
+          "genre": ["Supernatural", "Romance", "Comedy"],
+          "animation_studio": "Madhouse",
+          "seasons": 1,
+          "episode_count": 12,
+          "streaming_platform": "Crunchyroll",
+          "comments": [
+            {
+              "name": "VampireFan22",
+              "comment": "Refreshing take on the vampire genre!"
+            },
+            {
+              "name": "RomanceReader123",
+              "comment": "Cute and funny, with a hint of darkness."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "01",
+      "title": "Want to watch",
+      "anime-shows": [
+        {
+          "english_title": "Demon Slayer",
+          "romaji_title": "Kimetsu no Yaiba",
+          "air_year": "2019",
+          "genre": ["Action", "Supernatural", "Historical"],
+          "animation_studio": "ufotable",
+          "seasons": 1,
+          "episode_count": 26,
+          "streaming_platform": "Funimation",
+          "comments": [
+            {
+              "name": "SlayerFan1",
+              "comment": "Incredible animation and fight scenes!"
+            },
+            {
+              "name": "DemonFan22",
+              "comment": "One of the best shounen anime out there."
+            }
+          ]
+        },
+        {
+          "id": "03",
+          "english_title": "Persona 4 the Animation",
+          "romaji_title": "Persona 4 the Animation",
+          "air_year": "2011",
+          "genre": ["Action", "Mystery", "Supernatural"],
+          "animation_studio": "AIC ASTA",
+          "seasons": 1,
+          "episode_count": 25,
+          "streaming_platform": "Crunchyroll",
+          "comments": [
+            {
+              "name": "User123",
+              "comment": "Great adaptation of the game!"
+            },
+            {
+              "name": "AnimeFan456",
+              "comment": "Love the characters and storyline."
+            }
+          ]
+        },
+        {
+          "english_title": "Re:Zero - Starting Life in Another World",
+          "romaji_title": "Re:Zero kara Hajimeru Isekai Seikatsu",
+          "air_year": "2016",
+          "genre": ["Psychological", "Fantasy", "Thriller"],
+          "animation_studio": "White Fox",
+          "seasons": 2,
+          "episode_count": 50,
+          "streaming_platform": "Crunchyroll",
+          "comments": [
+            {
+              "name": "RemBestGirl",
+              "comment": "Love the time-loop concept and character development."
+            },
+            {
+              "name": "SubaruFan99",
+              "comment": "Can't wait for season 3!"
+            }
+          ]
+        },
+        {
+          "english_title": "ERASED",
+          "romaji_title": "Boku dake ga Inai Machi",
+          "air_year": "2016",
+          "genre": ["Mystery", "Psychological", "Supernatural"],
+          "animation_studio": "A-1 Pictures",
+          "seasons": 1,
+          "episode_count": 12,
+          "streaming_platform": "Netflix",
+          "comments": [
+            {
+              "name": "MysteryLover88",
+              "comment": "The plot twists kept me on the edge of my seat!"
+            },
+            {
+              "name": "TimeTraveler101",
+              "comment": "Unique and gripping storyline."
+            }
+          ]
+        },
+        {
+          "english_title": "Parasyte -the maxim-",
+          "romaji_title": "Kiseijuu: Sei no Kakuritsu",
+          "air_year": "2014",
+          "genre": ["Action", "Horror", "Sci-Fi"],
+          "animation_studio": "Madhouse",
+          "seasons": 1,
+          "episode_count": 24,
+          "streaming_platform": "Hulu",
+          "comments": [
+            {
+              "name": "SciFiFanatic",
+              "comment": "Intense and thought-provoking!"
+            },
+            {
+              "name": "HorrorFan22",
+              "comment": "Loved the body horror elements."
+            }
+          ]
+        },
+        {
+          "english_title": "Cyberpunk: Edgerunners",
+          "romaji_title": "Cyberpunk: Edgerunners",
+          "air_year": "2022",
+          "genre": ["Action", "Sci-Fi"],
+          "animation_studio": "Studio Trigger",
+          "seasons": 1,
+          "episode_count": 10,
+          "streaming_platform": "Netflix",
+          "comments": [
+            {
+              "name": "TechGeek01",
+              "comment": "Visually stunning!"
+            },
+            {
+              "name": "CyberpunkFan2022",
+              "comment": "Captures the essence of Cyberpunk perfectly."
+            }
+          ]
+        },
+        {
+          "english_title": "Steins;Gate",
+          "romaji_title": "Steins;Gate",
+          "air_year": "2011",
+          "genre": ["Thriller", "Sci-Fi", "Psychological"],
+          "animation_studio": "White Fox",
+          "seasons": 1,
+          "episode_count": 24,
+          "streaming_platform": "Hulu",
+          "comments": [
+            {
+              "name": "TimeTravelEnthusiast",
+              "comment": "Mind-bending time-travel narrative!"
+            },
+            {
+              "name": "LabMember007",
+              "comment": "One of my all-time favorites."
+            }
+          ]
+        },
+        {
+          "english_title": "Death Parade",
+          "romaji_title": "Death Parade",
+          "air_year": "2015",
+          "genre": ["Psychological", "Drama", "Mystery"],
+          "animation_studio": "Madhouse",
+          "seasons": 1,
+          "episode_count": 12,
+          "streaming_platform": "Funimation",
+          "comments": [
+            {
+              "name": "MysteryBuff456",
+              "comment": "Fascinating concept and character examinations."
+            },
+            {
+              "name": "DramaFanatic",
+              "comment": "Emotionally gripping!"
+            }
+          ]
+        },
+        {
+          "english_title": "Higurashi: When They Cry",
+          "romaji_title": "Higurashi no Naku Koro ni",
+          "air_year": "2006",
+          "genre": ["Horror", "Mystery", "Psychological"],
+          "animation_studio": "Studio Deen",
+          "seasons": 2,
+          "episode_count": 48,
+          "streaming_platform": "Hulu",
+          "comments": [
+            {
+              "name": "HorrorEnthusiast",
+              "comment": "A classic in the horror genre!"
+            },
+            {
+              "name": "MysteryFan321",
+              "comment": "Keeps you guessing until the end."
+            }
+          ]
+        },
+        {
+          "english_title": "Call of the Night",
+          "romaji_title": "Yofukashi no Uta",
+          "air_year": "2021",
+          "genre": ["Supernatural", "Romance", "Comedy"],
+          "animation_studio": "Madhouse",
+          "seasons": 1,
+          "episode_count": 12,
+          "streaming_platform": "Crunchyroll",
+          "comments": [
+            {
+              "name": "VampireFan22",
+              "comment": "Refreshing take on the vampire genre!"
+            },
+            {
+              "name": "RomanceReader123",
+              "comment": "Cute and funny, with a hint of darkness."
             }
           ]
         }

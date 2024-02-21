@@ -8,30 +8,9 @@
   
   <h2>Playlist App Dashboard</h2>
   
-{{#each shows}}
+{{#each lists}}
   <h1>{{title}}</h1>
 
-  
-<table class="ui fixed striped table">
-  <thead>
-    <tr>
-      <th>Song</th>
-      <th>Artist</th>
-    </tr>
-  </thead>
-  <tbody>
-    {{#each anime-shows}}
-      <tr>
-        <td>
-          {{english_title}}
-        </td>
-        <td>
-          {{romanji_title}}
-        </td>
-      </tr>
-    {{/each}}
-  </tbody>
-</table>
   {{/each}}
 </section>
 </section>
