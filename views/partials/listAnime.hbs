@@ -1,0 +1,37 @@
+{{#if singleList.shows}}
+
+  <table class="ui fixed striped table">
+    <thead>
+      <tr>
+        <th>Song</th>
+        <th>Artist</th>
+        <th>Genre</th>
+        <th>Duration</th>
+      </tr>
+    </thead>
+    <tbody>
+      {{#each singleList.shows}}
+        <tr>
+          <td>
+            {{english_title}}
+          </td>
+          <td>
+            {{artist}}
+          </td>
+          <td>
+            {{genre}}
+          </td>
+          <td>
+            {{duration}}
+          </td>
+        </tr>
+      {{/each}}
+    </tbody>
+  </table>
+
+{{else}}
+  <h3 class="ui message">
+    Empty playlist!
+  </h3>
+
+{{/if}}
