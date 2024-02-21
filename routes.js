@@ -3,12 +3,12 @@ const router = express.Router();
 
 import start from './controllers/start.js';
 import dashboard from './controllers/dashboard.js';
-import collection from './controllers/collection.js'
+import list from './controllers/list.js'
 import about from './controllers/about.js';
 
 router.get('/', start.createView);
 router.get('/dashboard', dashboard.createView);
-router.get('/collection', collection.createView);
+router.get('/list', list.createView);
 router.get('/about', about.createView);
 
 
