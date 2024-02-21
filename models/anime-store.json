@@ -5,6 +5,7 @@
       "title": "Favourites",
       "shows": [
         {
+          "id": "03",
           "imgpath":"https://cdn.glitch.global/aa40c62b-3cdb-4367-a806-057c5f7e3cee/demonslayer.jpg?v=1708556021216",
           "english_title": "Demon Slayer",
           "romaji_title": "Kimetsu no Yaiba",
@@ -26,7 +27,6 @@
           ]
         },
         {
-          "id": "03",
           "english_title": "Persona 4 the Animation",
           "romaji_title": "Persona 4 the Animation",
           "air_year": "2011",
