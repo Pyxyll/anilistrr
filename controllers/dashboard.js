@@ -1,6 +1,6 @@
 'use strict';
 
-import animeStore from "../models/anime.js"
+import animeStore from "../models/anime-store.js"
 
 const dashboard = {
   createView(request, response) {

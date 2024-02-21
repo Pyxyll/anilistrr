@@ -1,0 +1,31 @@
+{
+  "anime_collection": [
+    {
+      "id": "01",
+      "title": "favourites",
+      "anime-shows": [
+        {
+          "id": "03",
+          "english_title": "Persona 4 the Animation",
+          "romaji_title": "Persona 4 the Animation",
+          "air_year": "2011",
+          "genre": ["Action", "Mystery", "Supernatural"],
+          "animation_studio": "AIC ASTA",
+          "seasons": 1,
+          "episode_count": 25,
+          "streaming_platform": "Crunchyroll",
+          "comments": [
+            {
+              "name": "User123",
+              "comment": "Great adaptation of the game!"
+            },
+            {
+              "name": "AnimeFan456",
+              "comment": "Love the characters and storyline."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
