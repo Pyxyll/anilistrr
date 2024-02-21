@@ -20,14 +20,14 @@
 {
   "anime_shows": [
     {
-      "english_title": "Attack on Titan",
-      "romaji_title": "Shingeki no Kyojin",
-      "air_year": "2013 - 2021",
-      "genre": ["Action", "Drama", "Fantasy"],
+      "english_title": "Persona 4 the Animation",
+      "romaji_title": "Persona 4 the Animation",
+      "air_year": "2011 - 2012",
+      "genre": ["Action", "Mystery", "Sci-fi", ],
       "animation_studio": "Wit Studio / MAPPA",
       "seasons": 4,
       "episode_count": 75,
-      "streaming_platform": "Crunchyroll"
+      "streaming_platform": "Crunchyroll",
     },
     {
       "english_title": "My Hero Academia",
