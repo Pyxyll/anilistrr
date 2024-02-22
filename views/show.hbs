@@ -1,22 +1,41 @@
- 
-    <section>
-      {{> menu}}
-    </section> 
+{{#if singleShow}}
 
-<section class="ui container ">
-  <div class="hero">
-  </div>
-<section class="ui segment foreground">
+  {{#each singleList.shows}}
+    <!--             <img class="ui small rounded image shadow" src="{{imgpath}}">
+            {{english_title}} -->
 
-    {{#if this}}
-    <h2 class="ui header"> Getting something {{english_title}}
-        </h2>
+    <div class="ui divided items">
+      <div class="item">
+        <div class="image">
+          <img class="ui small rounded image shadow" src="{{imgpath}}" />
+        </div>
+        <div class="content">
+          <a class="header">{{english_title}}</a>
+          <div class="meta">
+            <span class="cinema">Studio: {{animation_studio}}</span>
+          </div>
+          <div class="description">
+            <p>asdasdasdasd</p>
+          </div>
+          <div class="extra">
+            {{#each genre}}
+              <div class="ui label">{{this}}</div>
+            {{/each}}
+            <div class="ui right floated primary button">
+                    <a href="/show/{{id}}">View</a>
+              <i class="right chevron icon"></i>
+            </div>
+          </div>
+        </div>
+      </div>
 
-  {{else}}
-  <h1> fuck all</h1>
-    {{/if}}
-<h1>
+    </div>
 
-  </h1>
-</section>
-</section>
+  {{/each}}
+
+{{else}}
+  <h3 class="ui message">
+    Empty List!
+  </h3>
+
+{{/if}}
