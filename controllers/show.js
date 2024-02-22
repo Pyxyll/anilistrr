@@ -7,7 +7,6 @@ const show = {
   createView(request, response) {
     const id = request.params.id;
     logger.debug('show id = ' + id);
-    console.log(animeStore.getShow(id));
     
     const viewData = {
       title: 'show',
