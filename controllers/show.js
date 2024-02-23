@@ -10,7 +10,7 @@ const show = {
     
     const viewData = {
       title: 'show',
-      showArray: 'showInfo',
+      singleList: animeStore.getList(showID)
     };
     response.render('show', viewData);
   },
