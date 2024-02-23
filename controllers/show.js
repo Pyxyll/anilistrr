@@ -12,6 +12,7 @@ const show = {
       title: 'show',
       singleShow: animeStore.getShow(id)
     };
+    logger.debug(animeStore.getShow(id))
     response.render('show', viewData);
   },
 };
