@@ -14,6 +14,6 @@ const list = {
     };
     response.render('list', viewData);
   },
-};
+}
 
 export default list;
