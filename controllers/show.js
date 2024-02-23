@@ -10,9 +10,8 @@ const show = {
     
     const viewData = {
       title: 'show',
-      singleShow: animeStore.getSingleShow(showID)
+      showArray: 'showInfo',
     };
-    logger.debug(animeStore.getSingleShow(showID))
     response.render('show', viewData);
   },
 };
