@@ -12,7 +12,6 @@ const list = {
       title: 'list',
       singleList: animeStore.getList(id)
     };
-
     response.render('list', viewData);
   },
 };
