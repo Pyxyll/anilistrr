@@ -6,11 +6,11 @@ import animeStore from '../models/anime-store.js';
 const show = {
   createView(request, response) {
     const id = request.params.id;
-    logger.debug('list id = ' + id);
+    logger.debug('show id = ' + id);
     
     const viewData = {
-      title: 'list',
-      singleList: animeStore.getList(id)
+      title: 'show',
+      singleShow: animeStore.getList(id)
     };
     response.render('show', viewData);
   },
