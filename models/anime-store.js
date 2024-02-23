@@ -17,8 +17,8 @@ const animeStore = {
     return this.store.findOneBy(this.collection, (list => list.id === id));
 },
   
-  getShow(id) {
-    return this.store.findAll(this.collection, (show => show.id === id));
+  getSingleShow(id) {
+    return this.store.findOneBy(this.collection, (list => list.id === id));
   }
   
 
