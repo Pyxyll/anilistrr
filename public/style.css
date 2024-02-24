@@ -43,8 +43,9 @@ body {
 }
 
 .hero-container {
-  color: #EDF1F5;
+  color: var(--text);
   margin: 1em auto;
   padding: 6rem 2rem;
   max-width: 1200px;
+  background: none;
 }
