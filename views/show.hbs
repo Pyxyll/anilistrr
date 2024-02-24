@@ -1,18 +1,28 @@
 <style>
-  .show-hero { background-image: linear-gradient(90deg, rgba(255, 0, 0, 1),
-  rgba(8, 83, 156, 0.75)), url(
+  .show-hero { background-image: linear-gradient(360deg, rgba(19,27,56,0.9) 41%, rgba(19,27,56,0.6) 100%), url(
     {{show.heropath}});
-  width: 100%; height: 500px; text-align: center; color: #fff; 
+  width: 100%; height: 500px; 
   background-repeat: no-repeat;
-  background-size: cover;}
+  background-size: cover;
+  margin-top: -20px;}
 </style>
 
+    <section>
+      {{> menu}}
+    </section> 
+
 <section
-  class="show-hero"
-  style="position: relative; background-image: url('{{show.heropath}}');"
->
+  class="show-hero">
   <div class="hero-container">
     <h1>{{show.english_title}}</h1>
   </div>
 
+</section>
+
+<section class="ui container">
+<section class="ui segment foreground">
+<h1>
+
+  </h1>
+</section>
 </section>
