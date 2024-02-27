@@ -50,6 +50,6 @@ body {
   background: none;
 }
 
-.hero-title {
-  display: inline;
+.description {
+  max-width: 700px !important;
 }
