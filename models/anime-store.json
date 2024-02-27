@@ -75,6 +75,9 @@
           ]
         },
         {
+          "id": "06",
+          "imgpath": "https://artworks.thetvdb.com/banners/posters/303071-6.jpg",
+          "heropath": "https://artworks.thetvdb.com/banners/fanart/original/303071-6.jpg",
           "english_title": "ERASED",
           "romaji_title": "Boku dake ga Inai Machi",
           "air_year": "2016",
@@ -95,6 +98,9 @@
           ]
         },
         {
+          "id": "07",
+          "imgpath": "https://artworks.thetvdb.com/banners/posters/279831-3.jpg",
+          "heropath": "https://artworks.thetvdb.com/banners/series/279831/backgrounds/5ff5e63a79064.jpg",
           "english_title": "Parasyte -the maxim-",
           "romaji_title": "Kiseijuu: Sei no Kakuritsu",
           "air_year": "2014",
@@ -115,6 +121,9 @@
           ]
         },
         {
+          "id": "09",
+          "imgpath": "https://artworks.thetvdb.com/banners/v4/series/384541/posters/630e68e5e268e.jpg",
+          "heropath": "https://artworks.thetvdb.com/banners/v4/series/384541/backgrounds/632f460a7d19a.jpg",
           "english_title": "Cyberpunk: Edgerunners",
           "romaji_title": "Cyberpunk: Edgerunners",
           "air_year": "2022",
@@ -135,6 +144,9 @@
           ]
         },
         {
+          "id": "10",
+          "imgpath": "https://artworks.thetvdb.com/banners/series/244061/posters/5f44d6fbaad70.jpg",
+          "heropath": "https://artworks.thetvdb.com/banners/series/244061/backgrounds/5f44bf0cd18d1.jpg",
           "english_title": "Steins;Gate",
           "romaji_title": "Steins;Gate",
           "air_year": "2011",
@@ -155,6 +167,9 @@
           ]
         },
         {
+          "id": "11",
+          "imgpath": "https://artworks.thetvdb.com/banners/posters/289177-1.jpg",
+          "heropath": "https://artworks.thetvdb.com/banners/v4/series/289177/backgrounds/630ae0ae77292.jpg",
           "english_title": "Death Parade",
           "romaji_title": "Death Parade",
           "air_year": "2015",
@@ -175,6 +190,9 @@
           ]
         },
         {
+          "id": "12",
+          "imgpath": "https://artworks.thetvdb.com/banners/posters/79682-6.jpg",
+          "heropath": "https://artworks.thetvdb.com/banners/fanart/original/79682-1.jpg",
           "english_title": "Higurashi: When They Cry",
           "romaji_title": "Higurashi no Naku Koro ni",
           "air_year": "2006",
