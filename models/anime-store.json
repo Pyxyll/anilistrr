@@ -29,7 +29,9 @@
           ]
         },
         {
-          "id": "17",
+          "id": "04",
+          "imgpath": "https://artworks.thetvdb.com/banners/posters/252232-5.jpg",
+          "heropath": "https://artworks.thetvdb.com/banners/fanart/original/252232-2.jpg",
           "english_title": "Persona 4 the Animation",
           "romaji_title": "Persona 4 the Animation",
           "air_year": "2011",
@@ -50,6 +52,9 @@
           ]
         },
         {
+          "id": "05",
+          "imgpath": "https://artworks.thetvdb.com/banners/posters/305089-1.jpg",
+          "heropath": "https://artworks.thetvdb.com/banners/fanart/original/305089-13.jpg",
           "english_title": "Re:Zero - Starting Life in Another World",
           "romaji_title": "Re:Zero kara Hajimeru Isekai Seikatsu",
           "air_year": "2016",
