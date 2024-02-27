@@ -42,7 +42,7 @@ body {
   margin-top: 1em !important;
 }
 
-.hero-container {
+.hero-wrapper {
   color: var(--text);
   margin: 1em auto;
   padding: 6rem 2rem;
@@ -52,4 +52,23 @@ body {
 
 .description {
   max-width: 700px !important;
+}
+
+.container {
+  display: flex;
+}
+
+.poster {
+  flex: 1;
+  margin-right: 20px; /* Adjust spacing between poster and info */
+}
+
+.poster img {
+  max-width: 65%;
+  height: auto;
+  border-radius: 20px;
+}
+
+.info {
+  flex: 2;
 }
