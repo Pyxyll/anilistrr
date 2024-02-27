@@ -213,6 +213,9 @@
           ]
         },
         {
+          "id": "13",
+          "imgpath": "https://artworks.thetvdb.com/banners/v4/series/412374/posters/63aa52d77bb85.jpg",
+          "heropath": "https://artworks.thetvdb.com/banners/v4/series/412374/backgrounds/61dce21867921.jpg",
           "english_title": "Call of the Night",
           "romaji_title": "Yofukashi no Uta",
           "air_year": "2021",
@@ -238,208 +241,235 @@
       "id": "02",
       "title": "Want to watch",
       "shows": [
-        {
-          "english_title": "Demon Slayer",
-          "romaji_title": "Kimetsu no Yaiba",
-          "air_year": "2019",
-          "genre": ["Action", "Supernatural", "Historical"],
-          "animation_studio": "ufotable",
-          "seasons": 1,
-          "episode_count": 26,
-          "streaming_platform": "Funimation",
-          "comments": [
-            {
-              "name": "SlayerFan1",
-              "comment": "Incredible animation and fight scenes!"
-            },
-            {
-              "name": "DemonFan22",
-              "comment": "One of the best shounen anime out there."
-            }
-          ]
-        },
-        {
-          "id": "03",
-          "english_title": "Persona 4 the Animation",
-          "romaji_title": "Persona 4 the Animation",
-          "air_year": "2011",
-          "genre": ["Action", "Mystery", "Supernatural"],
-          "animation_studio": "AIC ASTA",
-          "seasons": 1,
-          "episode_count": 25,
-          "streaming_platform": "Crunchyroll",
-          "comments": [
-            {
-              "name": "User123",
-              "comment": "Great adaptation of the game!"
-            },
-            {
-              "name": "AnimeFan456",
-              "comment": "Love the characters and storyline."
-            }
-          ]
-        },
-        {
-          "english_title": "Re:Zero - Starting Life in Another World",
-          "romaji_title": "Re:Zero kara Hajimeru Isekai Seikatsu",
-          "air_year": "2016",
-          "genre": ["Psychological", "Fantasy", "Thriller"],
-          "animation_studio": "White Fox",
-          "seasons": 2,
-          "episode_count": 50,
-          "streaming_platform": "Crunchyroll",
-          "comments": [
-            {
-              "name": "RemBestGirl",
-              "comment": "Love the time-loop concept and character development."
-            },
-            {
-              "name": "SubaruFan99",
-              "comment": "Can't wait for season 3!"
-            }
-          ]
-        },
-        {
-          "english_title": "ERASED",
-          "romaji_title": "Boku dake ga Inai Machi",
-          "air_year": "2016",
-          "genre": ["Mystery", "Psychological", "Supernatural"],
-          "animation_studio": "A-1 Pictures",
-          "seasons": 1,
-          "episode_count": 12,
-          "streaming_platform": "Netflix",
-          "comments": [
-            {
-              "name": "MysteryLover88",
-              "comment": "The plot twists kept me on the edge of my seat!"
-            },
-            {
-              "name": "TimeTraveler101",
-              "comment": "Unique and gripping storyline."
-            }
-          ]
-        },
-        {
-          "english_title": "Parasyte -the maxim-",
-          "romaji_title": "Kiseijuu: Sei no Kakuritsu",
-          "air_year": "2014",
-          "genre": ["Action", "Horror", "Sci-Fi"],
-          "animation_studio": "Madhouse",
-          "seasons": 1,
-          "episode_count": 24,
-          "streaming_platform": "Hulu",
-          "comments": [
-            {
-              "name": "SciFiFanatic",
-              "comment": "Intense and thought-provoking!"
-            },
-            {
-              "name": "HorrorFan22",
-              "comment": "Loved the body horror elements."
-            }
-          ]
-        },
-        {
-          "english_title": "Cyberpunk: Edgerunners",
-          "romaji_title": "Cyberpunk: Edgerunners",
-          "air_year": "2022",
-          "genre": ["Action", "Sci-Fi"],
-          "animation_studio": "Studio Trigger",
-          "seasons": 1,
-          "episode_count": 10,
-          "streaming_platform": "Netflix",
-          "comments": [
-            {
-              "name": "TechGeek01",
-              "comment": "Visually stunning!"
-            },
-            {
-              "name": "CyberpunkFan2022",
-              "comment": "Captures the essence of Cyberpunk perfectly."
-            }
-          ]
-        },
-        {
-          "english_title": "Steins;Gate",
-          "romaji_title": "Steins;Gate",
-          "air_year": "2011",
-          "genre": ["Thriller", "Sci-Fi", "Psychological"],
-          "animation_studio": "White Fox",
-          "seasons": 1,
-          "episode_count": 24,
-          "streaming_platform": "Hulu",
-          "comments": [
-            {
-              "name": "TimeTravelEnthusiast",
-              "comment": "Mind-bending time-travel narrative!"
-            },
-            {
-              "name": "LabMember007",
-              "comment": "One of my all-time favorites."
-            }
-          ]
-        },
-        {
-          "english_title": "Death Parade",
-          "romaji_title": "Death Parade",
-          "air_year": "2015",
-          "genre": ["Psychological", "Drama", "Mystery"],
-          "animation_studio": "Madhouse",
-          "seasons": 1,
-          "episode_count": 12,
-          "streaming_platform": "Funimation",
-          "comments": [
-            {
-              "name": "MysteryBuff456",
-              "comment": "Fascinating concept and character examinations."
-            },
-            {
-              "name": "DramaFanatic",
-              "comment": "Emotionally gripping!"
-            }
-          ]
-        },
-        {
-          "english_title": "Higurashi: When They Cry",
-          "romaji_title": "Higurashi no Naku Koro ni",
-          "air_year": "2006",
-          "genre": ["Horror", "Mystery", "Psychological"],
-          "animation_studio": "Studio Deen",
-          "seasons": 2,
-          "episode_count": 48,
-          "streaming_platform": "Hulu",
-          "comments": [
-            {
-              "name": "HorrorEnthusiast",
-              "comment": "A classic in the horror genre!"
-            },
-            {
-              "name": "MysteryFan321",
-              "comment": "Keeps you guessing until the end."
-            }
-          ]
-        },
-        {
-          "english_title": "Call of the Night",
-          "romaji_title": "Yofukashi no Uta",
-          "air_year": "2021",
-          "genre": ["Supernatural", "Romance", "Comedy"],
-          "animation_studio": "Madhouse",
-          "seasons": 1,
-          "episode_count": 12,
-          "streaming_platform": "Crunchyroll",
-          "comments": [
-            {
-              "name": "VampireFan22",
-              "comment": "Refreshing take on the vampire genre!"
-            },
-            {
-              "name": "RomanceReader123",
-              "comment": "Cute and funny, with a hint of darkness."
-            }
-          ]
-        }
-      ]
-    }
+         {
+    "id": "14",
+    "imgpath": "https://artworks.thetvdb.com/banners/v4/series/409019/posters/6026978ec0d02.jpg",
+    "heropath": "https://artworks.thetvdb.com/banners/v4/series/409019/backgrounds/6026978e4db76.jpg",
+    "english_title": "The Apothecary Diaries",
+    "romaji_title": "Maiko-san Chi no Makanai-san",
+    "air_year": "2021",
+    "genre": ["Historical", "Mystery"],
+    "animation_studio": "Studio Signpost",
+    "seasons": 1,
+    "episode_count": 12,
+    "streaming_platform": "Crunchyroll",
+    "comments": [
+      {
+        "name": "HistoryEnthusiast",
+        "comment": "A fascinating blend of history and mystery!"
+      },
+      {
+        "name": "MysteryFan99",
+        "comment": "Each episode leaves me wanting more!"
+      }
+    ]
+  },
+  {
+    "id": "15",
+    "imgpath": "https://artworks.thetvdb.com/banners/v4/series/428803/posters/60cb067e568bf.jpg",
+    "heropath": "https://artworks.thetvdb.com/banners/v4/series/428803/backgrounds/60cb067e2ea32.jpg",
+    "english_title": "Frieren: Beyond Journey's End",
+    "romaji_title": "Frieren: Mukou Jou no Shougakou",
+    "air_year": "2021",
+    "genre": ["Fantasy", "Adventure"],
+    "animation_studio": "Satelight",
+    "seasons": 1,
+    "episode_count": 12,
+    "streaming_platform": "Crunchyroll",
+    "comments": [
+      {
+        "name": "FantasyQuester",
+        "comment": "Beautifully crafted world and characters!"
+      },
+      {
+        "name": "AdventureFan88",
+        "comment": "An epic journey that keeps you engaged throughout!"
+      }
+    ]
+  },
+  {
+    "id": "16",
+    "imgpath": "https://artworks.thetvdb.com/banners/v4/series/428843/posters/61f8b7f5da73a.jpg",
+    "heropath": "https://artworks.thetvdb.com/banners/v4/series/428843/backgrounds/61f8b7f5a0982.jpg",
+    "english_title": "Insomniacs After School",
+    "romaji_title": "Yashahime: Princess Half-Demon",
+    "air_year": "2020",
+    "genre": ["Supernatural", "Action", "Adventure"],
+    "animation_studio": "Sunrise",
+    "seasons": 2,
+    "episode_count": 36,
+    "streaming_platform": "Crunchyroll",
+    "comments": [
+      {
+        "name": "SupernaturalFanatic",
+        "comment": "Exciting action-packed series with a supernatural twist!"
+      },
+      {
+        "name": "ActionLover2000",
+        "comment": "Each episode leaves me on the edge of my seat!"
+      }
+    ]
+  },
+  {
+    "id": "17",
+    "imgpath": "https://artworks.thetvdb.com/banners/v4/series/402962/posters/61e155cf8cbe8.jpg",
+    "heropath": "https://artworks.thetvdb.com/banners/v4/series/402962/backgrounds/61e155cfb7e84.jpg",
+    "english_title": "Chainsaw Man",
+    "romaji_title": "Chainsaw Man",
+    "air_year": "2022",
+    "genre": ["Action", "Horror", "Supernatural"],
+    "animation_studio": "MAPPA",
+    "seasons": 1,
+    "episode_count": 24,
+    "streaming_platform": "Netflix",
+    "comments": [
+      {
+        "name": "HorrorFanatic",
+        "comment": "Intense and thrilling, perfect for horror enthusiasts!"
+      },
+      {
+        "name": "ActionAddict123",
+        "comment": "Action-packed with a unique premise!"
+      }
+    ]
+  },
+  {
+    "id": "18",
+    "imgpath": "https://artworks.thetvdb.com/banners/v4/series/444286/posters/61ee2d4e8c823.jpg",
+    "heropath": "https://artworks.thetvdb.com/banners/v4/series/444286/backgrounds/61ee2d4ec5b7c.jpg",
+    "english_title": "Zom 100: Bucket List of the Dead",
+    "romaji_title": "Zom 100: Bucket List of the Dead",
+    "air_year": "2022",
+    "genre": ["Comedy", "Horror"],
+    "animation_studio": "MADHOUSE",
+    "seasons": 1,
+    "episode_count": 12,
+    "streaming_platform": "Funimation",
+    "comments": [
+      {
+        "name": "ComedyBuff",
+        "comment": "Hilarious take on the zombie apocalypse!"
+      },
+      {
+        "name": "HorrorAddict456",
+        "comment": "A fresh perspective on the zombie genre!"
+      }
+    ]
+  },
+  {
+    "id": "19",
+    "imgpath": "https://artworks.thetvdb.com/banners/v4/series/399523/posters/621f5fd111e89.jpg",
+    "heropath": "https://artworks.thetvdb.com/banners/v4/series/399523/backgrounds/61ea2cb6f4ba1.jpg",
+    "english_title": "Summer Time Rendering",
+    "romaji_title": "Summer Time Rendering",
+    "air_year": "2022",
+    "genre": ["Mystery", "Supernatural", "Thriller"],
+    "animation_studio": "CloverWorks",
+    "seasons": 1,
+    "episode_count": 12,
+    "streaming_platform": "Crunchyroll",
+    "comments": [
+      {
+        "name": "MysteryEnthusiast",
+        "comment": "Keeps you guessing until the very end!"
+      },
+      {
+        "name": "ThrillerFan99",
+        "comment": "A rollercoaster ride of suspense and intrigue!"
+      }
+    ]
+  },
+  {
+    "id": "20",
+    "imgpath": "https://artworks.thetvdb.com/banners/v4/series/416063/posters/62b4de3a44f4b.jpg",
+    "heropath": "https://artworks.thetvdb.com/banners/v4/series/416063/backgrounds/62b4de3b9c2b9.jpg",
+    "english_title": "Oshi no Ko",
+    "romaji_title": "Oshi no Ko",
+    "air_year": "2022",
+    "genre": ["Drama", "Slice of Life"],
+    "animation_studio": "LIDENFILMS",
+    "seasons": 1,
+    "episode_count": 12,
+    "streaming_platform": "Crunchyroll",
+    "comments": [
+      {
+        "name": "DramaFanatic",
+        "comment": "A touching story about the entertainment industry!"
+      },
+      {
+        "name": "SliceofLifeAddict",
+        "comment": "Captivating characters and heartfelt moments!"
+      }
+    ]
+  },
+  {
+    "id": "21",
+    "imgpath": "https://artworks.thetvdb.com/banners/v4/series/430179/posters/61e81e9e4c60f.jpg",
+    "heropath": "https://artworks.thetvdb.com/banners/v4/series/430179/backgrounds/61e81e9f31586.jpg",
+    "english_title": "NieR:Automata Ver1.1a",
+    "romaji_title": "NieR:Automata Ver1.1a",
+    "air_year": "2023",
+    "genre": ["Action", "Sci-Fi"],
+    "animation_studio": "Square Enix",
+    "seasons": 1,
+    "episode_count": 12,
+    "streaming_platform": "Netflix",
+    "comments": [
+      {
+        "name": "SciFiFanatic",
+        "comment": "A visually stunning adaptation of the game!"
+      },
+      {
+        "name": "ActionGamer99",
+        "comment": "Brings the game to life in an incredible way!"
+      }
+    ]
+  },
+  {
+    "id": "22",
+    "imgpath": "https://artworks.thetvdb.com/banners/v4/series/410872/posters/62ad02d454e43.jpg",
+    "heropath": "https://artworks.thetvdb.com/banners/v4/series/410872/backgrounds/62ad02d45c940.jpg",
+    "english_title": "Mob Psycho 100",
+    "romaji_title": "Mob Psycho 100",
+    "air_year": "2016",
+    "genre": ["Action", "Comedy", "Supernatural"],
+    "animation_studio": "Bones",
+    "seasons": 2,
+    "episode_count": 25,
+    "streaming_platform": "Netflix",
+    "comments": [
+      {
+        "name": "ActionComedyFan",
+        "comment": "A perfect blend of action and comedy!"
+      },
+      {
+        "name": "SupernaturalAddict",
+        "comment": "Incredible animation and a gripping storyline!"
+      }
+    ]
+  },
+  {
+    "id": "23",
+    "imgpath": "https://artworks.thetvdb.com/banners/v4/series/412843/posters/61eb5ff195c6d.jpg",
+    "heropath": "https://artworks.thetvdb.com/banners/v4/series/412843/backgrounds/61eb5ff1a0f06.jpg",
+    "english_title": "Lycoris Recoil",
+    "romaji_title": "Lycoris Recoil",
+    "air_year": "2023",
+    "genre": ["Action", "Drama", "Sci-Fi"],
+    "animation_studio": "Wit Studio",
+    "seasons": 1,
+    "episode_count": 12,
+    "streaming_platform": "Crunchyroll",
+    "comments": [
+      {
+        "name": "ActionDramaFan",
+        "comment": "A thrilling ride from start to finish!"
+      },
+      {
+        "name": "SciFiEnthusiast",
+        "comment": "Fascinating sci-fi concepts and intense action scenes!"
+      }
+    ]
+  }
   ]
 }
