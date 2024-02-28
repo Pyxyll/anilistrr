@@ -22,9 +22,11 @@
       </div>
       <div class="info">
         <h1>{{show.english_title}}</h1>
-        <p>Director: Director Name</p>
-        <p>Release Date: January 1, 2024</p>
-        <p>Genre: Action</p>
+        <p>Romanji: {{show.romaji_title}}</p>
+                    {{#each show.genre}}
+              <div class="ui label">{{this}}</div>
+            {{/each}}
+        <p>{{show.description}}</p>
         <!-- Add more information here as needed -->
       </div>
     </div>
