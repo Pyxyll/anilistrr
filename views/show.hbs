@@ -45,9 +45,10 @@
   {{#each show.comments}}
   <div class="f-carousel__slide">
     <div class="comment-wrapper">
+      <img class="ui small circular image" src="https://picsum.photos/100">
     <h3>{{this.name}}</h3> 
     <p>{{this.comment}}</p>
-      <div class="ui rating" data-rating="3" data-max-rating="5"></div>
+      <div class="ui rating" data-rating="{{this.rating}}" data-max-rating="5"></div>
     </div>      
     </div>
 

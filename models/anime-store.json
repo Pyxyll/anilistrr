@@ -20,11 +20,13 @@
           "comments": [
             {
               "name": "SlayerFan1",
-              "comment": "Incredible animation and fight scenes!"
+              "comment": "Incredible animation and fight scenes!",
+              "rating": 5
             },
             {
               "name": "DemonFan22",
-              "comment": "One of the best shounen anime out there."
+              "comment": "One of the best shounen anime out there.",
+              "rating": 3
             }
           ]
         },
