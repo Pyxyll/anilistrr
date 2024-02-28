@@ -74,18 +74,21 @@ body {
 }
 
 .f-carousel {
-    height: 200px;
+    height: 220px;
 }
 
 .f-carousel__slide {
-  width: 600px;
   background-color: var(--background);
   border-radius: 20px;
-  margin-right: 1em;
   padding: 20px;
+ margin: 10px
   
 }
 
 .comment-wrapper {
   padding 20px;
+}
+
+.show-details {
+  padding: 20px 0px 0px 0px;
 }
