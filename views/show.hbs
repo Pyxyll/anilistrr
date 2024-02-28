@@ -26,6 +26,9 @@
         {{#each show.genre}}
           <div class="ui label">{{this}}</div>
         {{/each}}
+        <p class="show-details">
+          Studio: {{show.animation_studio}}
+        </p>
         <p class="show-details">{{show.description}}</p>
 
       </div>
@@ -38,8 +41,59 @@
 <section class="ui container utility-margin-top">
   <section class="ui segment foreground">
     <h1>
-      test
+      Details
     </h1>
+    
+       <div class="ui five statistics" style="margin-top: 1em;">
+    
+    <div class="statistic">
+      <div class="value">
+        <i class="music icon"></i> 
+      </div>
+      <div class="label">
+        Premiere: <br>
+        {{show.air_year}}
+      </div>
+    </div>
+    
+     <div class="statistic">
+      <div class="value">
+        <i class="code branch icon"></i> 
+      </div>
+      <div class="label">
+        Status: <br>
+        {{show.air_Status}}
+      </div>
+    </div>    
+    <div class="statistic">
+      <div class="value">
+        <i class="map pin icon"></i> 
+      </div>
+      <div class="label">
+        Seasons: <br>
+        {{show.seasons}}
+      </div>
+    </div>    
+    <div class="statistic">
+      <div class="value">
+        <i class="user icon"></i> 
+      </div>
+      <div class="label">
+        Created by: <br>
+        {{info.creators.0.name}}
+      </div>
+    </div> 
+    <div class="statistic">
+      <div class="value">
+        <i class="user plus icon"></i> 
+      </div>
+      <div class="label">
+        With help from: <br>
+        {{info.creators.1.name}}
+      </div>
+    </div> 
+   
+  </div>
 
     <div class="f-carousel" id="myCarousel">
       {{#each show.comments}}
