@@ -27,7 +27,7 @@
               <div class="ui label">{{this}}</div>
             {{/each}}
         <p>{{show.description}}</p>
-        <!-- Add more information here as needed -->
+
       </div>
     </div>
 
@@ -46,7 +46,9 @@
   <div class="f-carousel__slide">
     <div class="comment-wrapper">
     <h3>{{this.name}}</h3> 
-    <p>{{this.comment}}</p></div>      
+    <p>{{this.comment}}</p>
+      <div class="ui rating" data-rating="3" data-max-rating="5"></div>
+    </div>      
     </div>
 
   {{/each}}
