@@ -72,3 +72,10 @@ body {
 .info {
   flex: 2;
 }
+
+.f-carousel__slide {
+  width: 500px;
+  background-color: var(--background);
+  border-radius: 20px;
+  
+}
